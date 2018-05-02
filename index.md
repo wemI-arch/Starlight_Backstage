@@ -14,9 +14,9 @@ GitHubのプロジェクトページは[ここ](https://github.com/Starlight-bac
 
 現在のガシャはNo.240です。
 
-現在のイベントはNo.93です。
-
 ![g](resources/gacha.png)
+
+現在のイベントはNo.94です。
 
 ![e](resources/event.png)
 
