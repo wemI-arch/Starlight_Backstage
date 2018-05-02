@@ -145,7 +145,7 @@
 | キラッ！満開スマイル | 5032 | 356 | Cute ||
 | Vast world | 9903 | 357 | All ||
 | Spring Screaming | 1044 | 358 | Passion ||
-| 桜の風 | 1045 | 359 | All ||
+| 桜の風 | 1043 | 359 | All ||
 | アタシポンコツアンドロイド | 1009 | 501 | Cute |event|
 | Nation Blue | 1010 | 502 | Cool |event|
 | Orange Sapphire | 1011 | 503 | Passion |event|
@@ -208,7 +208,7 @@
 | キラッ！満開スマイル | 5032 | 560 | Cute |event|
 | Vast world | 9903 | 561 | All |event|
 | Spring Screaming | 1044 | 562 | Passion |event|
-| 桜の風 | 1045 | 563 | All |event|
+| 桜の風 | 1043 | 563 | All |event|
 | キミとボクのミライ | 8001 | 801 | All ||
 | エンジェル ドリーム | 8002 | 802 | All ||
 | お願い ! シンデレラ | 1901 | 901 | All |April fool|
