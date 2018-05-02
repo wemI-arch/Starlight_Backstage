@@ -1,0 +1,42 @@
+# ![e](resources/jewel.png)back_stage_cg
+
+これはスターライトステージのデータ群を簡易的に表示しているものである。
+
+アイドル関係は[ここ](chara_data/index.md)
+
+楽曲関係は[ここ](music_data/index.md)
+
+本体に関するトピックは[ここ](topic/index.md)
+
+manifestのアップデート情報は[ここ](update/index.md)
+
+GitHubのプロジェクトページは[ここ](https://github.com/decrypt-lot/back_stage_cg)
+
+現在のリソースバージョンは10038410です。
+
+現在のガシャはNo.240です。
+
+現在のイベントはNo.93です。
+
+![g](resources/gacha.png)
+
+![e](resources/event.png)
+
+# ![n](resources/new.png)お知らせ
+
+manifestページを更新しました。
+アップデート情報は最新5件、見やすくなるようにテーブルを利用しています。
+
+復刻ガシャのヘッダーは取得できないため表示していません。
+
+
+
+アイドル関連のページを更新しました。
+
+ふりがなをフルネームに変更しました。
+
+# ![l](resources/mem.png)LICENSE
+
+本サイトで得られた知識や内容の著作権はBANDAI NAMCO Entertainment Inc.に属します。
+
+なお、本サイトは予告なしに削除する場合もあります。
