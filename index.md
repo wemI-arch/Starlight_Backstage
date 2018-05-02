@@ -1,6 +1,4 @@
-# ![e](resources/jewel.png)back_stage_cg
-
-これはスターライトステージのデータ群を簡易的に表示しているものである。
+# ![e](resources/jewel.png)Starlight_Backstage
 
 アイドル関係は[ここ](chara_data/index.md)
 
@@ -10,7 +8,7 @@
 
 manifestのアップデート情報は[ここ](update/index.md)
 
-GitHubのプロジェクトページは[ここ](https://github.com/decrypt-lot/back_stage_cg)
+GitHubのプロジェクトページは[ここ](https://github.com/Starlight-backstage/Starlight_Backstage)
 
 現在のリソースバージョンは10038410です。
 
@@ -26,10 +24,6 @@ GitHubのプロジェクトページは[ここ](https://github.com/decrypt-lot/b
 
 manifestページを更新しました。
 アップデート情報は最新5件、見やすくなるようにテーブルを利用しています。
-
-復刻ガシャのヘッダーは取得できないため表示していません。
-
-
 
 アイドル関連のページを更新しました。
 
