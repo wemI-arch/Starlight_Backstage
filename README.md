@@ -1,9 +1,5 @@
 # back_stage_cg
 
-https://decrypt-lot.github.io/back_stage_cg/
-
-
-
 ### @back_stage_cgの活動方針について
 
 まずはじめに、当アカウントはbot（自動でツイートするアカウント）ではありません。
