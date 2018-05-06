@@ -10,7 +10,7 @@ manifestのアップデート情報は[ここ](update/index.md)
 
 GitHubのプロジェクトページは[ここ](https://github.com/Starlight-backstage/Starlight_Backstage)
 
-現在のリソースバージョンは10038500です。
+現在のリソースバージョンは10038510です。
 
 ## ガシャ
 
